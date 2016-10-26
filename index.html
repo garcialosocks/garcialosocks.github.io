@@ -1,3 +1,26 @@
-<html>
-Github Pages Properly Set Up!
-</html>
+---
+layout: pages
+title: Luis&#39;s Socks
+---
+
+<h2>All Socks</h2>
+
+<table>
+<caption>Currently Owned Socks</caption>
+<tr>
+	<th scope="col">Condition</th>
+	<!-- <th scope="col">Image or Description</th> -->
+	<th scope="col">Model</th>
+	<th scope="col">Color</th>
+	<th scope="col">Date Acquired</th>
+</tr>
+{% assign allSocks = site.data.socks %}
+{% for sock in allSocks %}
+{% if sock.condition != 'retired' %}<tr>
+	<td>{{ sock.condition }}</td>
+	<!-- <td>Image Placeholder</td> -->
+	<td>{{ sock.model }}</td>
+	<td>{{ sock.color }}</td>
+	<td>{{ sock.dateMonthAcquired }}/{{ sock.dateDayAcquired }}/{{ sock.dateYearAcquired }}</td>
+</tr>{% endif %}
+{% endfor %}</table>

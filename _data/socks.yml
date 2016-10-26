@@ -1,0 +1,192 @@
+# To add new sock
+# 1. Copy the comment block below
+# 2. Paste at the end of the document
+# 3. Fill in all known information for the sock
+# 4. Remove the hash/number signs
+
+#- model: 
+#  color: 
+#  condition: 
+#  dateAcquired: 
+#  dateRetired: 
+#  eulogy: 
+
+- model: Spectrum
+  color: Yellow
+  condition: new
+  dateDayAcquired: 23
+  dateMonthAcquired: 9
+  dateYearAcquired: 2016
+  dateRetired: 
+  eulogy: 
+
+- model: Lumberjack
+  color: Red
+  condition: new
+  dateDayAcquired: 23
+  dateMonthAcquired: 9
+  dateYearAcquired: 2016
+  dateRetired: 
+  eulogy: 
+
+- model: Mission
+  color: Aqua
+  condition: new
+  dateDayAcquired: 24
+  dateMonthAcquired: 10
+  dateYearAcquired: 2016
+  dateRetired: 
+  eulogy: 
+
+- model: Wolverine
+  color: Navy
+  condition: new
+  dateDayAcquired: 24
+  dateMonthAcquired: 10
+  dateYearAcquired: 2016
+  dateRetired: 
+  eulogy: 
+
+- model: Sequoia 2
+  color: Maroon
+  condition: new
+  dateDayAcquired: 24
+  dateMonthAcquired: 10
+  dateYearAcquired: 2016
+  dateRetired: 
+  eulogy: 
+
+- model: Mission
+  color: Charcoal
+  condition: new
+  dateDayAcquired: 24
+  dateMonthAcquired: 10
+  dateYearAcquired: 2016
+  dateRetired: 
+  eulogy: 
+
+- model: Launch
+  color: Grey
+  condition: new
+  dateDayAcquired: 24
+  dateMonthAcquired: 10
+  dateYearAcquired: 2016
+  dateRetired: 
+  eulogy: 
+
+- model: Sun Volt
+  color: Black
+  condition: new
+  dateDayAcquired: 24
+  dateMonthAcquired: 10
+  dateYearAcquired: 2016
+  dateRetired: 
+  eulogy: 
+
+- model: Villa 2
+  color: Grey
+  condition: new
+  dateDayAcquired: 24
+  dateMonthAcquired: 10
+  dateYearAcquired: 2016
+  dateRetired: 
+  eulogy: 
+
+- model: Guadalupe
+  color: Black
+  condition: new
+  dateDayAcquired: 24
+  dateMonthAcquired: 10
+  dateYearAcquired: 2016
+  dateRetired: 
+  eulogy: 
+
+- model: Scanner
+  color: Black
+  condition: new
+  dateDayAcquired: 24
+  dateMonthAcquired: 10
+  dateYearAcquired: 2016
+  dateRetired: 
+  eulogy: 
+
+- model: Toledo
+  color: Blue
+  condition: new
+  dateDayAcquired: 24
+  dateMonthAcquired: 10
+  dateYearAcquired: 2016
+  dateRetired: 
+  eulogy: 
+
+- model: The Fourth
+  color: Red
+  condition: new
+  dateDayAcquired: 24
+  dateMonthAcquired: 10
+  dateYearAcquired: 2016
+  dateRetired: 
+  eulogy: 
+
+- model: Falcon
+  color: Black
+  condition: new
+  dateDayAcquired: 24
+  dateMonthAcquired: 10
+  dateYearAcquired: 2016
+  dateRetired: 
+  eulogy: 
+
+- model: Yonder
+  color: Blue
+  condition: new
+  dateDayAcquired: 24
+  dateMonthAcquired: 10
+  dateYearAcquired: 2016
+  dateRetired: 
+  eulogy: 
+
+- model: Curb Feelers
+  color: Grey
+  condition: new
+  dateDayAcquired: 24
+  dateMonthAcquired: 10
+  dateYearAcquired: 2016
+  dateRetired: 
+  eulogy: 
+
+- model: Snot Sickle
+  color: Grey
+  condition: new
+  dateDayAcquired: 24
+  dateMonthAcquired: 10
+  dateYearAcquired: 2016
+  dateRetired: 
+  eulogy: 
+
+- model: Pyrobuild
+  color: Black
+  condition: new
+  dateDayAcquired: 24
+  dateMonthAcquired: 10
+  dateYearAcquired: 2016
+  dateRetired: 
+  eulogy: 
+
+- model: Spectacle
+  color: Grey
+  condition: new
+  dateDayAcquired: 24
+  dateMonthAcquired: 10
+  dateYearAcquired: 2016
+  dateRetired: 
+  eulogy: 
+
+- model: Whamo
+  color: Red
+  condition: new
+  dateDayAcquired: 24
+  dateMonthAcquired: 10
+  dateYearAcquired: 2016
+  dateRetired: 
+  eulogy: 
