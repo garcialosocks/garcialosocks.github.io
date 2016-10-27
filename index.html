@@ -2,9 +2,14 @@
 layout: pages
 title: Luis&#39;s Socks
 ---
+<h2>Sock Facts</h2>
+<dl>
+	<dt>Pairs Owned:</dt><dd>20</dd>
+	<dt>Unique Sock Combinations:</dt><dd>190ish</dd>
+</dl>
 
 <h2>All Socks</h2>
-
+<h3>Currently Owned Socks</h3>
 <table>
 <caption>Currently Owned Socks</caption>
 <tr>
@@ -24,3 +29,7 @@ title: Luis&#39;s Socks
 	<td>{{ sock.dateMonthAcquired }}/{{ sock.dateDayAcquired }}/{{ sock.dateYearAcquired }}</td>
 </tr>{% endif %}
 {% endfor %}</table>
+
+<h3>Retired Socks</h3>
+<!-- this will eventually be a table similar to Currently Owned Socks -->
+<p>No socks currently retired</p>
