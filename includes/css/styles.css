@@ -1,0 +1,10 @@
+h2 { font-size: 2.4rem; line-height: 1.35;  letter-spacing: -.08rem; }
+h3 { font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem; }
+
+@media (min-width: 550px) {
+	h2 { font-size: 3.0rem; }
+	h3 { font-size: 2.4rem; }
+}
+
+a: { color: #0080a4; }
+a:hover { color: #00617c; }
